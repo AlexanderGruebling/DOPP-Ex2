@@ -1,4 +1,4 @@
-# Exercise 2 Dataoriented Programming Paradigms
+# Exercise 2 Dataoriented Programming Paradigms (DOOP)
 
 ## Exercise Question:
 How is the adoption of renewable energy in Europe evolving? How is the adoption of different
@@ -6,9 +6,9 @@ types of renewable energy evolving? Are there characteristics of countries that 
 their level of adoption of renewable energy?
 
 ## General Question:
-Exploring general adoption of renewable energy in Europe:
+Exploring general adoption (production & consumption) of renewable energy in Europe:
 - **Question:** How has the adoption of renewable energy in Europe developed over time?
-- **Question:** Which types of renewable energy have been predominently adopted?
+- **Question:** Which types of renewable energy have been predominantly adopted?
 
 ### Sub Question 1:
 Exploring the correlation between GDP and the adoption of renewable energy:
